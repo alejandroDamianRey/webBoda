@@ -1,5 +1,4 @@
 ---
-
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
