@@ -1,6 +1,4 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
 full_image: /img/products-full-width.jpg
 
 blurb:
