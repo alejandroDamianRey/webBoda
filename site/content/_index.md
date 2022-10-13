@@ -1,7 +1,8 @@
 ---
 title: Great coffee with a conscience
 subtitle: Support sustainable farming while enjoying a cup
-image: img/about-shade-grown.jpg
+full_image: /img/products-full-width.jpg
+
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
