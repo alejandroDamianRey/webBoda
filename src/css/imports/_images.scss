@@ -3,7 +3,7 @@ img {
 }
 
 /* Remove border-radiius from full-width images */
-
+/* TODO */
 img:not(.w-100) {
   border-radius: var(--border-radius); 
 }
